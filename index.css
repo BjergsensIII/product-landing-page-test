@@ -6,7 +6,7 @@
   }
   
   body {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Covered By Your Grace";
     line-height: 1.5;
   }
   
@@ -29,8 +29,9 @@
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(255, 255, 255);
+    background-color: #970000;
     overflow: hidden;
+    
   }
   /*
   @media only screen and (max-width:600px){
@@ -50,6 +51,7 @@
     max-width: 960px;
     margin: 2rem auto 0;
     overflow: hidden;
+
   }
   
   .logo {
@@ -66,16 +68,16 @@
   .btn {
     display: inline-block;
     padding: 0.4rem 1.5rem;
-    color: #333;
+    color: #eee;
     text-transform: uppercase;
     font-weight: bold;
-    background-color: #f1c40f;
+    background-color: #970000;
   }
   
   .nav-link {
       float: left;
       display: block;
-      color: #000000;
+      color: #eee;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -100,6 +102,7 @@
     width: 30%;
     padding: 0.4rem;
     margin-bottom: 1rem;
+    font-family: "Covered By Your Grace";
   }
   
   #features {
@@ -117,7 +120,7 @@
   }
   
   #features .feature i {
-    color: #ff8c00;
+    color: #970000;
   }
   
   #features .feature div {
