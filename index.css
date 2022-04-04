@@ -140,13 +140,13 @@
     margin-bottom: 0.5rem;
   }
   
-  #how-it-work {
+  #podcast {
     padding: 3rem;
     margin: auto;
     text-align: center;
   }
   
-  #how-it-work #video {
+  #podcast #video {
     width: 600px;
     height: 340px;
   }
@@ -236,11 +236,11 @@
       margin-bottom: 2rem;
     }
   
-    #how-it-work {
+    #podcast {
       padding: 1rem;
     }
   
-    #how-it-work #video {
+    #podcast #video {
       width: 80%;
       height: 30%;
     }
