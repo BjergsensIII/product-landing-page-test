@@ -55,7 +55,7 @@
   }
   
   .logo {
-    width: 300px;
+    width: 200px;
     cursor: pointer;
   }
   
@@ -82,6 +82,12 @@
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
+  }
+  #box:hover {
+    color: black;
+    font-size:25px;
+    transition: 0.5s;
+    text-shadow: 2px 2px 5px white;
   }
   
   
@@ -111,6 +117,7 @@
     margin-bottom: 3rem;
     display: flex;
     flex-direction: column;
+    font-size: 20px;
   }
   
   #features .feature {
@@ -133,13 +140,13 @@
     margin-bottom: 0.5rem;
   }
   
-  #how-it-work {
+  #podcast {
     padding: 3rem;
     margin: auto;
     text-align: center;
   }
   
-  #how-it-work #video {
+  #podcast #video {
     width: 600px;
     height: 340px;
   }
@@ -229,11 +236,11 @@
       margin-bottom: 2rem;
     }
   
-    #how-it-work {
+    #podcast {
       padding: 1rem;
     }
   
-    #how-it-work #video {
+    #podcast #video {
       width: 80%;
       height: 30%;
     }
